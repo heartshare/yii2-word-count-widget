@@ -2,6 +2,7 @@ Yii2-Word-Count-Widget
 ======================
 Display a word or character count, including or excluding spaces for any field
 
+<!--
 Installation
 ------------
 
@@ -30,3 +31,4 @@ Once the extension is installed, simply use it in your code by  :
 ```php
 <?= \cics\widgets\WordCount::widget(); ?>
 ```
+-->
