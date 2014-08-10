@@ -1,3 +1,18 @@
-h1 {
-	display: none !important;
+.character-counter {
+	margin-top: 5px;
+	margin-bottom: 10px;
+	text-align: right;
+	color: inherit;
+	float: right;
+}
+
+.counter-warning {
+/* 	color: red; */
+}
+
+.help-block {
+	float: left;
+}
+.form-group {
+	clear: both;
 }
