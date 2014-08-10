@@ -1,0 +1,18 @@
+{
+	"name": "cics/yii2-word-count-widget",
+	"description": "Yii2 widget for displaying a word or character count, including or excluding spaces for any field passed by id.",
+	"type": "yii2-extension",
+	"keywords": ["yii2","extension","widget","word count"],
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Caleb Crosby",
+			"email": "caleb@cicsolutions.com"
+		}
+	],
+	"autoload": {
+		"psr-4": {
+			"cics\\widgets\\": ""
+		}
+	}
+}
