@@ -1,6 +1,6 @@
 Yii2-Word-Count-Widget
 ======================
-Display a word or character count, including or excluding spaces for any field
+Display character count and/or word count on any text field or textarea field.
 
 <!--
 Installation
