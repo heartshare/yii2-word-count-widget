@@ -11,6 +11,10 @@ class WordCount extends \yii\base\Widget
 
     public function run()
     {
+
+	    // include embed class
+		include_once('@vendor/cics/yii2-word-count-widget/assets/wordcount.js');
+
     	$wordcount = 'hey, heay, hay';
         return Html::encode($wordcount);
     }
