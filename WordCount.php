@@ -2,6 +2,8 @@
 
 namespace cics\widgets;
 
+use yii\helpers\Html;
+
 class WordCount extends \yii\base\Widget
 {
 
