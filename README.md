@@ -10,7 +10,7 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist cics/yii2-word-count-widget "*"
+php composer.phar require cics/yii2-word-count-widget:dev-master
 ```
 
 or add
@@ -28,5 +28,5 @@ Usage
 Once the extension is installed, simply use it in your code by  :
 
 ```php
-<?= \cics\widgets\AutoloadExample::widget(); ?>
+<?= \cics\widgets\WordCount::widget(); ?>
 ```
